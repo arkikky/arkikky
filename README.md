@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ikky
 - 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently learning HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, Next Js, Figma, Photoshop
+- 🌱 I’m currently learning HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, Next Js, Figma & Adobe Photoshop
 - 💞️ I’m looking to collaborate on Frontend Web Developer
 - 📫 How to reach me at ikky.andreansyah@gmail.com
 
