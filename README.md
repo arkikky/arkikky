@@ -15,10 +15,9 @@ https://arkikkylinksme.vercel.app
 
 <br />
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/arkikky/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arkikky&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=2C2C2C&border_radius=12" />
   </a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkikky&layout=compact&langs_count=8&card_width=170&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=2C2C2C&border_radius=12" />
 </div>
 <br />
 
