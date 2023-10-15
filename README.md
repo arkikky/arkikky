@@ -6,14 +6,21 @@
 ```
 https://arkikkylinksme.vercel.app
 ```
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arkikky&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=2C2C2C&border_radius=12" />
-</a>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkikky&layout=compact&langs_count=8&card_width=200&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=2C2C2C&border_radius=12" />
-</div>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,nextjs,git,github,gitlab,postman,figma,discord,vscode" />
+  </a>
+</p>
 
-Made with ❤️.
+<br />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arkikky&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=2C2C2C&border_radius=12" />
+  </a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkikky&layout=compact&langs_count=8&card_width=170&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=2C2C2C&border_radius=12" />
+</div>
+<br />
 
 <!---
 arkikky/arkikky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
