@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<br />
 - 👋 I am Dicky Pratama A, a student and full time worker at a company, currently I am pursuing a Computer Engineering degree in Malang, East Java, Indonesia
 - 👀 I’m interested in Frontend Web Developer
 - 🌱 I’m currently I am studying and deepening about Frontend Web Developer
