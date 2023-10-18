@@ -32,10 +32,10 @@ By contributing to any project I create, you agree that your contribution will b
 
 💞️ Thank you for your contribution!
 
-## 📆 Contact Us
+## ☎️ Contact Us
 Let's have a chat about your survey needs and get you started.
-- Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
-- Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
+- 📫 Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
+- 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
 
 <!---
 arkikky/arkikky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
