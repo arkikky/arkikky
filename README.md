@@ -4,6 +4,8 @@
   </a>
 </p> -->
 
+<img src="/.github/images/arkIkky_banner.jpg" alt="Snake animation" width="100%" />
+
 ## ✨ Description
 
 👋 I am Dicky Pratama A, or ark.ikky, I am a final semester student, currently I am pursuing a Computer Engineering degree in Malang, East Java, Indonesia and I am a full-time worker at a company.
@@ -48,7 +50,11 @@ Let's have a chat about your survey needs and get you started.
 - 📫 Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
 - 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
 
