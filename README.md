@@ -48,7 +48,7 @@ Let's have a chat about your survey needs and get you started.
 - 📫 Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
 - 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 
 ###
 
