@@ -51,9 +51,9 @@ Let's have a chat about your survey needs and get you started.
 - 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkikky/arkikky/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkikky/arkikky/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arkikky/arkikky/output/github-snake.svg" />
 </picture>
 
 ###
