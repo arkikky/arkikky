@@ -4,7 +4,7 @@
   </a>
 </p> -->
 
-<img src="/.github/images/arkIkky_banner.jpg" alt="Snake animation" width="100%" height="250" />
+<img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="250" />
 
 ## ✨ Description
 
