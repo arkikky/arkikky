@@ -4,7 +4,7 @@
   </a>
 </p> -->
 
-<img src="/.github/images/arkIkky_banner.jpg" alt="Snake animation" width="100%" />
+<img src="/.github/images/arkIkky_banner.jpg" alt="Snake animation" width="100%" height="250" />
 
 ## ✨ Description
 
@@ -49,12 +49,6 @@ Let's have a chat about your survey needs and get you started.
 
 - 📫 Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
 - 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkikky/arkikky/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkikky/arkikky/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arkikky/arkikky/output/github-snake.svg" />
-</picture>
 
 ###
 
