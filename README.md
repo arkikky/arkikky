@@ -31,10 +31,6 @@
 
 ## ✍️ Contribution
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkikky&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="arkikky's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=arkikky&theme=merko&hide_border=true&cache_seconds=86400" alt="arkikky's GitHub Streak" width="49%" />
-</p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arkikky&theme=merko&radius=10" alt="arkikky's Activity Graph" />
 </p>
