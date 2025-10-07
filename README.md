@@ -6,24 +6,38 @@
 
 <img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="250" />
 
-## ✨ Description
+## ✨ Description 
 
-👋 I am Dicky Pratama A, or ark.ikky, I am a final semester student, currently I am pursuing a Computer Engineering degree in Malang, East Java, Indonesia and I am a full-time worker at a company.
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I am Dicky Pratama A, or ark.ikky, I am a final semester student, currently I am pursuing a Computer Engineering degree in Malang, East Java, Indonesia and I am a full-time worker at a company.
 
 - 👀 I’m interested in Frontend Web Developer
 - 🌱 I’m currently I am studying and deepening about Frontend Web Developer
 - 💞️ I am looking for networking relations and can make friends here! and also want to collaborate with another Frontend Web Developer.
 - 📫 How to reach me ? via email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com) or you can visit my website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
 
-## 💪 Skills
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=arkikky">
+    <img src="https://komarev.com/ghpvc/?username=arkikky&label=Profile%20views&color=00FFFF&style=flat-square" alt="arkikky's profile views" />
+  </a>
+</p>
 
-<p align="center">
+## 💪 Programming Language
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,nextjs,git,github,gitlab,postman,figma,discord,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,nextjs,react,wordpress,python,mysql,supabase,mongodb,git,github,gitlab,postman,figma,discord,vscode,vercel,netlify" />
   </a>
 </p>
 
 ## ✍️ Contribution
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkikky&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="arkikky's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=arkikky&theme=merko&hide_border=true&cache_seconds=86400" alt="arkikky's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arkikky&theme=merko&radius=10" alt="arkikky's Activity Graph" />
+</p>
 
 I am very happy if you are interested in contributing to me 🤗, and thank you for contributing to every project I create! I really appreciate your contribution. Here are some contribution guidelines you need to follow:
 
