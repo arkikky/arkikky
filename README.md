@@ -38,19 +38,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arkikky&theme=merko&radius=10" alt="arkikky's Activity Graph" />
 </p>
 
-I am very happy if you are interested in contributing to me 🤗, and thank you for contributing to every project I create! I really appreciate your contribution. Here are some contribution guidelines you need to follow:
-
-- Make sure you have created a GitHub account, If you don't have one yet, you can register at [GitHub](https://github.com/join).
-- Fork this project repository to your own GitHub account. This will create a copy of the project under your account.
-- Clone _fork_ your repository to your local computer with the `git clone` command. Example:
-
-```bash
-  git clone https://github.com/username/nama-proyek.git
-```
-
-- And don't forget to star the repo of the project you want.
-- Create problems every time you feel something is missing or not right.
-- Upvote issues with reactions 👍 so I know the requests for specific issues to prioritize in the roadmap.
+I am very happy if you are interested in contributing to me 🤗, and thank you for contributing to every project I create! I really appreciate your contribution. 
 
 By contributing to any project I create, you agree that your contribution will be provided under the terms of the applicable project license. See the `LICENSE` file on each project for more information.
 
