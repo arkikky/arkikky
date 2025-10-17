@@ -6,20 +6,23 @@
 
 <img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="250" />
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
+<!-- <p align="left">
+  <a href="https://komarev.com/ghpvc/?username=arkikky">
+    <img src="https://komarev.com/ghpvc/?username=arkikky&label=Profile%20views&color=00FFFF&style=flat-square" alt="arkikky's profile views" />
+  </a>
+</p> -->
+
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> This project is maintained by awesome people like you ✨
+
 ## ✨ Description 
 
-<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I am Dicky Pratama A, or ark.ikky, I am a final semester student, currently I am pursuing a Computer Engineering degree in Malang, East Java, Indonesia and I am a full-time worker at a company.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I am Dicky Pratama A, or ark.ikky, I am a final semester student, currently I am pursuing a Computer Engineering degree in Malang, East Java, Indonesia and I am a full-time worker at a company.
 
 - 👀 I’m interested in Frontend Web Developer
 - 🌱 I’m currently I am studying and deepening about Frontend Web Developer
 - 💞️ I am looking for networking relations and can make friends here! and also want to collaborate with another Frontend Web Developer.
 - 📫 How to reach me ? via email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com) or you can visit my website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
-
-<p align="left">
-  <a href="https://komarev.com/ghpvc/?username=arkikky">
-    <img src="https://komarev.com/ghpvc/?username=arkikky&label=Profile%20views&color=00FFFF&style=flat-square" alt="arkikky's profile views" />
-  </a>
-</p>
 
 ## 💪 Programming Language
 
@@ -59,6 +62,8 @@ Let's have a chat about your survey needs and get you started.
 
 - 📫 Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
 - 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
 
 ###
 
