@@ -4,7 +4,7 @@
   </a>
 </p> -->
 
-<img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="250" />
+<img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="150" />
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
 <!-- <p align="left">
