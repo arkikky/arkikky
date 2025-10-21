@@ -6,14 +6,15 @@
 
 <img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="150" />
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
 <!-- <p align="left">
   <a href="https://komarev.com/ghpvc/?username=arkikky">
     <img src="https://komarev.com/ghpvc/?username=arkikky&label=Profile%20views&color=00FFFF&style=flat-square" alt="arkikky's profile views" />
   </a>
 </p> -->
 
-<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> This project is maintained by awesome people like you ✨
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="45px" width="45px"> <img src="https://github.com/arkikky/arkikky/blob/a845eb7ae98df07cfee5b2b47ca42895f526d1b2/gif/arkikky-partyfurby.gif" height="40px" width="40px"> [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
+
+This project is maintained by awesome people like you ✨
 
 ## ✨ Description 
 
@@ -56,7 +57,7 @@ Let's have a chat about your survey needs and get you started.
 ###
 
 <p align="left">
-  <img src="https://qcbewmf0ikrv6qhn.public.blob.vercel-storage.com/profile.me/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="275" />
+  <img src="https://qcbewmf0ikrv6qhn.public.blob.vercel-storage.com/profile.me/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="245" />
 </p>
 
 <!---
