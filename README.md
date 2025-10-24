@@ -21,6 +21,8 @@ This project is maintained by awesome people like you ✨
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
 
+<img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-ascii.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="245" />
+
 ## 🔥 Programming Language
 
 <p align="left">
@@ -53,7 +55,7 @@ Let's have a chat about your survey needs and get you started.
 
 ###
 
-<img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-catcoding.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="245" /> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-hack.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="245" /> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-ascii.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="245" />
+<img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-catcoding.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="245" /> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-hack.gif" alt="Simulation Preview Coding Animation Cats(ArkIkky)" width="245" />
 
 <!---
 arkikky/arkikky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
