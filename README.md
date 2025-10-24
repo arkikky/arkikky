@@ -6,13 +6,7 @@
 
 <img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="190" />
 
-<!-- <p align="left">
-  <a href="https://komarev.com/ghpvc/?username=arkikky">
-    <img src="https://komarev.com/ghpvc/?username=arkikky&label=Profile%20views&color=00FFFF&style=flat-square" alt="arkikky's profile views" />
-  </a>
-</p> -->
-
-<img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-ufo.gif" height="48px" width="48px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-programming.gif" height="48px" width="48px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-docscoding.gif" height="54px" width="54px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-pride.gif" height="50px" width="50px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-partyfurby.gif" height="44px" width="44px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-unicorn.gif" height="55px" width="55px">
+<img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-ufo.gif" height="48px" width="48px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-programming.gif" height="48px" width="48px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-docscoding.gif" height="54px" width="54px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-pride.gif" height="50px" width="50px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-partyfurby.gif" height="44px" width="44px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-ghost.gif" height="44px" width="44px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-unicorn.gif" height="44px" width="44px">
 
 This project is maintained by awesome people like you ✨
 
