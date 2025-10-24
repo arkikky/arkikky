@@ -12,20 +12,22 @@
   </a>
 </p> -->
 
-<img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-unicorn.gif?raw=true" height="45px" width="45px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-partyfurby.gif" height="38px" width="38px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-ufo.gif" height="36px" width="36px"> [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
+<img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-ufo.gif" height="48px" width="48px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-programming.gif" height="48px" width="48px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-docscoding.gif" height="54px" width="54px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-pride.gif" height="50px" width="50px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-partyfurby.gif" height="44px" width="44px"> <img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-unicorn.gif" height="55px" width="55px">
 
 This project is maintained by awesome people like you ✨
 
-## ✨ Description 
+## ✨ About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I am Dicky Pratama A, or ark.ikky, I am a final semester student, currently I am pursuing a Computer Engineering degree in Malang, East Java, Indonesia and I am a full-time worker at a company.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="18px" width="18px"> My name is Dicky Pratama A, and I am a Frontend Developer with 4 years of experience. I am skilled at solving complex problems, transforming visual designs into visually appealing and responsive user interfaces, and adhering to UI/UX best practices. My expertise includes effective project management, improving accessibility, optimizing SEO, and mastering Git for version control. I thrive in collaborative environments, communicate effectively with cross-functional teams, and continually improve my skills to stay ahead of the rapid evolution of web technologies.
 
-- 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently I am studying and deepening about Frontend Web Developer
-- 💞️ I am looking for networking relations and can make friends here! and also want to collaborate with another Frontend Web Developer.
-- 📫 How to reach me ? via email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com) or you can visit my website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
+- 👀 I’m interested in Frontend Engineer | Technical SEO Implementation | Tracking & Analytics Integration (GTM, GA, Meta, LinkedIn) | Prompt Engineering
+- 💞️ I am looking for networking relations and can make friends here! and also want to collaborate with another Frontend Engineer.
+- 📫 How to reach me ?
+- via email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com) or you can visit my website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
 
-## 💪 Programming Language
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
+
+## 🔥 Programming Language
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -45,14 +47,14 @@ By contributing to any project I create, you agree that your contribution will b
 
 💞️ Thank you for your contribution!
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
+
 ## ☎️ Contact Us
 
 Let's have a chat about your survey needs and get you started.
 
 - 📫 Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
 - 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
 
 ###
 
