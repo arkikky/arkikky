@@ -35,11 +35,12 @@ This project is maintained by awesome people like you ✨
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arkikky&theme=merko&radius=10" alt="arkikky's Activity Graph" />
 </p>
 
-I am very happy if you are interested in contributing to me 🤗, and thank you for contributing to every project I create! I really appreciate your contribution. 
+I’m very happy that you’re interested in contributing 🤗
+Thank you for your support and for taking the time to contribute to my projects — I truly appreciate your help!
 
-By contributing to any project I create, you agree that your contribution will be provided under the terms of the applicable project license. See the `LICENSE` file on each project for more information.
+By contributing to any of my projects, you agree that your contribution will be licensed under the terms of the applicable project license. Please see the LICENSE file in each repository for more details.
 
-💞️ Thank you for your contribution!
+💞️ Thank you again for your valuable contribution!
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
 
