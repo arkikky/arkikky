@@ -12,7 +12,7 @@
   </a>
 </p> -->
 
-<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="45px" width="45px"> <img src="https://github.com/arkikky/arkikky/blob/a845eb7ae98df07cfee5b2b47ca42895f526d1b2/gif/arkikky-partyfurby.gif" height="40px" width="40px"> [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
+<img src="https://github.com/arkikky/arkikky/blob/main/gif/arkikky-unicorn.gif?raw=true" height="45px" width="45px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-partyfurby.gif" height="38px" width="38px"> <img src="https://raw.githubusercontent.com/arkikky/arkikky/refs/heads/main/gif/arkikky-ufo.gif" height="36px" width="36px"> [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/arkikky/card)
 
 This project is maintained by awesome people like you ✨
 
