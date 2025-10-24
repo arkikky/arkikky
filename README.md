@@ -4,7 +4,7 @@
   </a>
 </p> -->
 
-<img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="150" />
+<img src="/images/arkIkky_banner.jpg" alt="Banner" width="100%" height="190" />
 
 <!-- <p align="left">
   <a href="https://komarev.com/ghpvc/?username=arkikky">
