@@ -50,6 +50,7 @@ By contributing to any of my projects, you agree that your contribution will be 
 
 Let's have a chat about your survey needs and get you started.
 
+- 🔗 LinkedIn : [arkikky](https://www.linkedin.com/in/arkikky0/)
 - 📫 Email : [ikky.andreansyah@gmail.com](https://mailto:ikky.andreansyah@gmail.com)
 - 🌏 Website : [https://arkikkylinksme.vercel.app](https://arkikkylinksme.vercel.app/)
 
