@@ -12,7 +12,6 @@ This project is maintained by awesome people like you ✨
 
 ## ✨ About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="18px" width="18px"> My name is Dicky Pratama A, and I am a Frontend Developer with 4 years of experience. I am skilled at solving complex problems, transforming visual designs into visually appealing and responsive user interfaces, and adhering to UI/UX best practices. My expertise includes effective project management, improving accessibility, optimizing SEO, and mastering Git for version control. I thrive in collaborative environments, communicate effectively with cross-functional teams, and continually improve my skills to stay ahead of the rapid evolution of web technologies.
 
 - 👀 I’m interested in Frontend Engineer | Technical SEO Implementation | Tracking & Analytics Integration (GTM, GA, Meta, LinkedIn) | Prompt Engineering
 - 💞️ I am looking for networking relations and can make friends here! and also want to collaborate with another Frontend Engineer.
